@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#section1{
+   background-color: #fefaf9;
+   padding-bottom: 17%;
+}
+
+h3,h1,h5{
+    text-align: center;
+}
+
+#firsth3{
+    padding-top: 5%; 
+}
+h1{
+    padding-top: 6%;
+}
+.firstp{
+    padding-top: 3%;
+    text-align: center;
+}
+#buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7%;
+    
+}
+#left{
+    background-color: rgb(223, 10, 10);
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    width: 15%;
+    padding: 1%;
+    margin-right: 1%;
+}
+#right{
+    background-color: #fff;
+    color: rgb(223, 10, 10);
+    text-decoration: none;
+    border: 1px solid rgb(223, 10, 10);
+    width: 18%;
+    padding: 1%;
+    margin-left: 1%;
+}
+a{
+    text-decoration: none;
+}
+#training{
+    color: #fff;
+}
+#talent{
+    color: rgb(223, 10, 10);
+}
+#left:hover{
+    background: #fff;
+}
+#training:hover{
+    color: rgb(223, 10, 10);
+}
+#right:hover{
+    background: rgb(223, 10, 10);
+}
+#talent:hover{
+    color: #fff;
+}
+
+h5{
+    padding-top: 7%;
+}
+#secondh3{
+    text-align: center;
+    padding-top: 1%;
+    margin-bottom: 6%;
+}
+#firstcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15%;
+}
+.item{
+    background-color: #fefaf9;
+    text-align: left;
+    margin-right: 2%;
+    padding-top: 4%;
+    padding-left: 2%;
+    padding-right: 3%;
+    padding-bottom: 5%;
+}
+.logos{
+    margin-bottom: 15%;
+}
+#secondcontainer{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 7%;
+}
+h4{
+    margin-bottom: 5%;
+}
+.thirdp{
+    padding-top: 5%;
+}
+.fourthp{
+    padding-top: 5%;
+}
+
+h6{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 7%;
+    font-size: small;
+}
+hr{
+    margin-left: 7%;
+    margin-right: 7%;
+}
